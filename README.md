@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Git & GitHub 
-
+- 🌱 I’m currently learning Git & GitHub
+- I would like to find or start a very small project I could  use as a sandbox of sorts.
 
 <!--
 **JamesBarrettMsc/JamesBarrettMsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
