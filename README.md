@@ -1,14 +1,27 @@
 # Hi there 👋
+
+----
+## Disclaimer
+>**My spelling** is just awful and I tend to rely on speech-to-text software,
+> So you will see lots of spelling & grammar mistakes throughout anything I have typed.
 ----
 
-#### Disclaimer
-My spelling is just awful and I tend to rely on speech-to-text software,
- So you will see lots of spelling & grammar mistakes throughout anything I have typed.
 ----
-
-
+## My Interests 
+- Computing Security
+- Video Game & Table Top Games
+- Education & Development at all levels.
+- Software Development
 - 🌱 I’m currently learning Git & GitHub
-- I would like to find or start a very small project I could  use as a sandbox of sorts.
+---
+
+Goals
+----
+## My Goals
+ -[X] Pass the GitHub foundations exam.
+ -[ ] Find or start a very small project I could  use as a sandbox of sorts.
+ -[ ] Learning Git & GitHub.
+---
 
 
 <!--
