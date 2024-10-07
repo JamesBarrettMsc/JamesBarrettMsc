@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🔭 I’m currently working on broadly upskilling at the moment.
+- 🔭 I’m currently working on broadly ==upskilling== at the moment.
 - 🌱 I’m currently learning Git & GitHub.
 
 ----
