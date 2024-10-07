@@ -1,4 +1,6 @@
 # Hi there 👋
+- 🔭 I’m currently working on broadly upskilling at the moment.
+- 🌱 I’m currently learning Git & GitHub.
 
 ----
 ## Disclaimer
@@ -12,15 +14,16 @@
 - Video Game & Table Top Games
 - Education & Development at all levels.
 - Software Development
-- 🌱 I’m currently learning Git & GitHub
+-  I’m currently learning Git & GitHub
 ---
 
-Goals
 ----
 ## My Goals
- -[X] Pass the GitHub foundations exam.
- -[ ] Find or start a very small project I could  use as a sandbox of sorts.
- -[ ] Learning Git & GitHub.
+ - [X] Pass the GitHub foundations exam.
+ - [ ] Find or start a very small project I could  use as a sandbox of sorts.
+ - [ ] Learning Git & GitHub.
+ - [ ] Learning Markdown.
+ - [ ] Learning YAML.
 ---
 
 
