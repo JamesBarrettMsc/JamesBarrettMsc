@@ -1,10 +1,12 @@
 # Hi there 👋
-- 🔭 I’m currently working on broadly ==upskilling== at the moment.
+
+- 🔭 I’m currently working on broadly upskilling at the moment.
 - 🌱 I’m currently learning Git & GitHub.
+
 
 ----
 ## Disclaimer
->**My spelling** is just awful and I tend to rely on speech-to-text software,
+> **My spelling** is just awful and I tend to rely on speech-to-text software,
 > So you will see lots of spelling & grammar mistakes throughout anything I have typed.
 ----
 
@@ -14,13 +16,13 @@
 - Video Game & Table Top Games
 - Education & Development at all levels.
 - Software Development
--  I’m currently learning Git & GitHub
+- I’m currently learning Git & GitHub
 ---
 
 ----
 ## My Goals
  - [X] Pass the GitHub foundations exam.
- - [ ] Find or start a very small project I could  use as a sandbox of sorts.
+ - [ ] Find or start a tiny project I could  use as a sandbox of sorts.
  - [ ] Learning Git & GitHub.
  - [ ] Learning Markdown.
  - [ ] Learning YAML.
